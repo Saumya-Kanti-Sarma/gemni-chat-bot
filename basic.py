@@ -1,5 +1,5 @@
 '''
-This is the basic use of gemni to crreate a simple chatbot with menory
+This is the basic use of gemni to crreate a simple chatbot 
 '''
 from google import genai
 import os
