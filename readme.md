@@ -1,0 +1,1 @@
+this is the full on gem ai tutorial repo with gemni
