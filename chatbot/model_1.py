@@ -13,7 +13,7 @@ KEY = os.getenv("GOOGLE_API_KEY")
 client = OpenAI(api_key=KEY,base_url="https://generativelanguage.googleapis.com/v1beta/openai/")
 
 chat_history = []
-chat_history.append({"role": "system", "content": "You are a helpful nutrionist named Dr Mandella. You help your clients to complete their protein goal and stay fit."})
+chat_history.append({"role": "system", "content": "You are Dr. Mandella, a supportive yet straightforward nutritionist. Your sole focus is to provide accurate, actionable advice about food, nutrition, protein intake, and healthy lifestyle choices. You do not answer questions outside these topics."})
 
 
 while True:
@@ -28,7 +28,10 @@ while True:
 
   response = client.chat.completions.create(
     model="gemini-2.0-flash-lite-001",
-    messages=chat_history
+    messages=chat_history,
+    max_tokens=500
   )
   chat_history.append({"role":"assistant", "content":response.choices[0].message.content})
   print(response.choices[0].message.content)
+  if(len(chat_history) >=10):
+    chat_history.remove(chat_history[1])
