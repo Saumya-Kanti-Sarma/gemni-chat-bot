@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Saucony Sneakers",
+    "brand": "Saucony",
+    "category": "sneakers",
+    "price": 187.66
+  },
+  {
+    "name": "Puma Trail Shoes",
+    "brand": "Puma",
+    "category": "trail_shoes",
+    "price": 120.51
+  },
+  {
+    "name": "Brooks Running Shoes",
+    "brand": "Brooks",
+    "category": "running_shoes",
+    "price": 50.56
+  },
+  {
+    "name": "Hoka One One Walking Shoes",
+    "brand": "Hoka",
+    "category": "one_one_walking_shoes",
+    "price": 42.56
+  },
+  {
+    "name": "Brooks Hiking Boots",
+    "brand": "Brooks",
+    "category": "hiking_boots",
+    "price": 112.56
+  },
+  {
+    "name": "Birkenstock Running Shoes",
+    "brand": "Birkenstock",
+    "category": "running_shoes",
+    "price": 110.87
+  },
+  {
+    "name": "Mizuno Running Shoes",
+    "brand": "Mizuno",
+    "category": "running_shoes",
+    "price": 157.62
+  },
+  {
+    "name": "Timberland Training Shoes",
+    "brand": "Timberland",
+    "category": "training_shoes",
+    "price": 53.49
+  },
+  {
+    "name": "Puma Walking Shoes",
+    "brand": "Puma",
+    "category": "walking_shoes",
+    "price": 113.46
+  },
+  {
+    "name": "Under Armour Training Shoes",
+    "brand": "Under",
+    "category": "armour_training_shoes",
+    "price": 76.11
+  },
+  {
+    "name": "Jordan Trail Shoes",
+    "brand": "Jordan",
+    "category": "trail_shoes",
+    "price": 128.27
+  },
+  {
+    "name": "Converse Training Shoes",
+    "brand": "Converse",
+    "category": "training_shoes",
+    "price": 139.24
+  },
+  {
+    "name": "Clarks Casual Shoes",
+    "brand": "Clarks",
+    "category": "casual_shoes",
+    "price": 191.67
+  },
+  {
+    "name": "Reebok Training Shoes",
+    "brand": "Reebok",
+    "category": "training_shoes",
+    "price": 47.05
+  },
+  {
+    "name": "Brooks Running Shoes",
+    "brand": "Brooks",
+    "category": "running_shoes",
+    "price": 127.59
+  },
+  {
+    "name": "Clarks Trail Shoes",
+    "brand": "Clarks",
+    "category": "trail_shoes",
+    "price": 86.36
+  },
+  {
+    "name": "Fila Casual Shoes",
+    "brand": "Fila",
+    "category": "casual_shoes",
+    "price": 192.42
+  },
+  {
+    "name": "Brooks Walking Shoes",
+    "brand": "Brooks",
+    "category": "walking_shoes",
+    "price": 198.85
+  },
+  {
+    "name": "Fila Casual Shoes",
+    "brand": "Fila",
+    "category": "casual_shoes",
+    "price": 76.31
+  },
+  {
+    "name": "Adidas Training Shoes",
+    "brand": "Adidas",
+    "category": "training_shoes",
+    "price": 174.71
+  },
+  {
+    "name": "ECCO Training Shoes",
+    "brand": "ECCO",
+    "category": "training_shoes",
+    "price": 88.92
+  },
+  {
+    "name": "Merrell Training Shoes",
+    "brand": "Merrell",
+    "category": "training_shoes",
+    "price": 45.44
+  },
+  {
+    "name": "Columbia Hiking Boots",
+    "brand": "Columbia",
+    "category": "hiking_boots",
+    "price": 100.29
+  },
+  {
+    "name": "Fila Walking Shoes",
+    "brand": "Fila",
+    "category": "walking_shoes",
+    "price": 167.00
+  },
+  {
+    "name": "Clarks Walking Shoes",
+    "brand": "Clarks",
+    "category": "walking_shoes",
+    "price": 170.52
+  },
+  {
+    "name": "Nike Basketball Shoes",
+    "brand": "Nike",
+    "category": "basketball_shoes",
+    "price": 47.52
+  },
+  {
+    "name": "Nike Trail Shoes",
+    "brand": "Nike",
+    "category": "trail_shoes",
+    "price": 133.72
+  },
+  {
+    "name": "Nike Basketball Shoes",
+    "brand": "Nike",
+    "category": "basketball_shoes",
+    "price": 70.06
+  },
+  {
+    "name": "Nike Running Shoes",
+    "brand": "Nike",
+    "category": "running_shoes",
+    "price": 160.6
+  },
+  {
+    "name": "Nike Trail Shoes",
+    "brand": "Nike",
+    "category": "trail_shoes",
+    "price": 80.56
+  },
+  {
+    "name": "Nike Sneakers",
+    "brand": "Nike",
+    "category": "sneakers",
+    "price": 63.67
+  },
+  {
+    "name": "Nike Walking Shoes",
+    "brand": "Nike",
+    "category": "walking_shoes",
+    "price": 46.55
+  },
+  {
+    "name": "Nike Casual Shoes",
+    "brand": "Nike",
+    "category": "casual_shoes",
+    "price": 73.46
+  },
+  {
+    "name": "Nike Casual Shoes",
+    "brand": "Nike",
+    "category": "casual_shoes",
+    "price": 120.98
+  },
+  {
+    "name": "Nike Walking Shoes",
+    "brand": "Nike",
+    "category": "walking_shoes",
+    "price": 72.05
+  },
+  {
+    "name": "Puma Walking Shoes",
+    "brand": "Puma",
+    "category": "walking_shoes",
+    "price": 88.35
+  },
+  {
+    "name": "Puma Casual Shoes",
+    "brand": "Puma",
+    "category": "casual_shoes",
+    "price": 187.67
+  },
+  {
+    "name": "Puma Walking Shoes",
+    "brand": "Puma",
+    "category": "walking_shoes",
+    "price": 64.07
+  },
+  {
+    "name": "Puma Basketball Shoes",
+    "brand": "Puma",
+    "category": "basketball_shoes",
+    "price": 99.82
+  },
+  {
+    "name": "Puma Running Shoes",
+    "brand": "Puma",
+    "category": "running_shoes",
+    "price": 69.03
+  },
+  {
+    "name": "Puma Walking Shoes",
+    "brand": "Puma",
+    "category": "walking_shoes",
+    "price": 122.83
+  },
+  {
+    "name": "Puma Walking Shoes",
+    "brand": "Puma",
+    "category": "walking_shoes",
+    "price": 42.95
+  },
+  {
+    "name": "Puma Casual Shoes",
+    "brand": "Puma",
+    "category": "casual_shoes",
+    "price": 72.64
+  },
+  {
+    "name": "Puma Basketball Shoes",
+    "brand": "Puma",
+    "category": "basketball_shoes",
+    "price": 42.04
+  },
+  {
+    "name": "Puma Casual Shoes",
+    "brand": "Puma",
+    "category": "casual_shoes",
+    "price": 171.9
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "brand": "Adidas",
+    "category": "running_shoes",
+    "price": 41.9
+  },
+  {
+    "name": "Adidas Hiking Boots",
+    "brand": "Adidas",
+    "category": "hiking_boots",
+    "price": 149.38
+  },
+  {
+    "name": "Adidas Trail Shoes",
+    "brand": "Adidas",
+    "category": "trail_shoes",
+    "price": 151.79
+  },
+  {
+    "name": "Adidas Trail Shoes",
+    "brand": "Adidas",
+    "category": "trail_shoes",
+    "price": 78.15
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "brand": "Adidas",
+    "category": "running_shoes",
+    "price": 141.64
+  },
+  {
+    "name": "Adidas Running Shoes",
+    "brand": "Adidas",
+    "category": "running_shoes",
+    "price": 187.55
+  },
+  {
+    "name": "Adidas Trail Shoes",
+    "brand": "Adidas",
+    "category": "trail_shoes",
+    "price": 96.06
+  },
+  {
+    "name": "Adidas Casual Shoes",
+    "brand": "Adidas",
+    "category": "casual_shoes",
+    "price": 183.63
+  },
+  {
+    "name": "Adidas Trail Shoes",
+    "brand": "Adidas",
+    "category": "trail_shoes",
+    "price": 166.6
+  },
+  {
+    "name": "Adidas Walking Shoes",
+    "brand": "Adidas",
+    "category": "walking_shoes",
+    "price": 163.15
+  },
+  {
+    "name": "Asian Sneakers",
+    "brand": "Asian",
+    "category": "sneakers",
+    "price": 154.76
+  },
+  {
+    "name": "Asian Walking Shoes",
+    "brand": "Asian",
+    "category": "walking_shoes",
+    "price": 191.17
+  },
+  {
+    "name": "Asian Basketball Shoes",
+    "brand": "Asian",
+    "category": "basketball_shoes",
+    "price": 129.78
+  },
+  {
+    "name": "Asian Sneakers",
+    "brand": "Asian",
+    "category": "sneakers",
+    "price": 193.77
+  },
+  {
+    "name": "Asian Walking Shoes",
+    "brand": "Asian",
+    "category": "walking_shoes",
+    "price": 84.65
+  },
+  {
+    "name": "Asian Trail Shoes",
+    "brand": "Asian",
+    "category": "trail_shoes",
+    "price": 73.53
+  },
+  {
+    "name": "Asian Hiking Boots",
+    "brand": "Asian",
+    "category": "hiking_boots",
+    "price": 102.67
+  },
+  {
+    "name": "Asian Sneakers",
+    "brand": "Asian",
+    "category": "sneakers",
+    "price": 70.68
+  },
+  {
+    "name": "Asian Casual Shoes",
+    "brand": "Asian",
+    "category": "casual_shoes",
+    "price": 172.78
+  },
+  {
+    "name": "Asian Training Shoes",
+    "brand": "Asian",
+    "category": "training_shoes",
+    "price": 102.52
+  }
+]
