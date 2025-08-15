@@ -1,7 +1,3 @@
-Here’s your README rewritten for clarity and professionalism while keeping it straightforward:
-
----
-
 # Proof of Work – Generative AI with Gemini API (OpenAI-Compatible)
 
 This project demonstrates a working setup of **Google Gemini models** using the **Gemini API** with **OpenAI-compatible endpoints**.
